@@ -7,6 +7,7 @@
 4. Em Project Settings → API, copie Project URL e publishable key (ou anon key legada) para `assets/config.js`.
 5. Nunca coloque `service_role` ou secret key no JavaScript público.
 6. Em Authentication → Providers, mantenha Email habilitado e desative o cadastro público (Allow new users to sign up).
+7. s
 
 ## 2. Testar
 Sirva a pasta por um servidor local (módulos JS não funcionam abrindo direto por `file://`):
